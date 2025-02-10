@@ -2,7 +2,7 @@
 
 CacaoAPP is an ESP32-based hobby project to measure some parameters in the environment of a group of cacao (or cocoa) seedlings placed in a small greenhouse.
 
-when powered, the device hosts a webserver accessible on "cacao.local" when connected to the same network as provided in [secrets.h](https://github.com/JelteHeldens/CacaoAPP/blob/main/CacaoAPP_code/arduino_secrets.h) in the "CacaoAPP_code" folder.
+when powered, the device hosts a webserver accessible on "cacao.local". wWen connected to the same network as provided in [secrets.h](https://github.com/JelteHeldens/CacaoAPP/blob/main/CacaoAPP_code/arduino_secrets.h) in the "CacaoAPP_code" folder.
 
 ## Local Network Webserver
 
